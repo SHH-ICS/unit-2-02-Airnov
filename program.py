@@ -1,2 +1,2 @@
-def HWorld():
-  print("Hello, world!")
+def HWorld(name):
+  print(f"Hello, {name}!")
