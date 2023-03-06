@@ -1,4 +1,5 @@
-import program;
+import program
 
-def test_program():
-    assert program.myFunction() == "Hello World!"
+
+if __name__ == "__main__":
+    program.HWorld()
